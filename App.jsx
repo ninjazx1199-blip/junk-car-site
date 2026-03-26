@@ -87,4 +87,13 @@ export default function App() {
       </section>
 
       <section className="max-w-5xl mx-auto px-4 pb-8">
+        <section className="max-w-5xl mx-auto px-4 pb-14">
+        <div className="bg-[#111111] rounded-[32px] border border-yellow-500/10 p-4 md:p-6 shadow-2xl">
+          <img
+            src="promo-top-dollar.jpg"
+            alt="Top Dollar For Junk Cars promo graphic"
+            className="w-full rounded-3xl"
+          />
+        </div>
+      </section>
         <div className="bg-gradient-to-br from-[#151515] to
