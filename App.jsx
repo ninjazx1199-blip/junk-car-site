@@ -80,7 +80,7 @@ export default function App() {
 
       <section className="max-w-5xl mx-auto px-4 py-6">
         <img
-          src="hero-top-dollar.jpg"
+          src="https://raw.githubusercontent.com/ninjazx1199-blip/junk-car-site/main/hero-top-dollar.jpg"
           alt="Top Dollar For Junk Cars tow truck ad"
           className="w-full rounded-3xl shadow-2xl border border-yellow-500/20"
         />
@@ -90,7 +90,7 @@ export default function App() {
         <section className="max-w-5xl mx-auto px-4 pb-14">
         <div className="bg-[#111111] rounded-[32px] border border-yellow-500/10 p-4 md:p-6 shadow-2xl">
           <img
-            src="promo-top-dollar.jpg"
+            src="https://raw.githubusercontent.com/ninjazx1199-blip/junk-car-site/main/promo-top-dollar.jpg"
             alt="Top Dollar For Junk Cars promo graphic"
             className="w-full rounded-3xl"
           />
