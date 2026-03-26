@@ -80,7 +80,7 @@ export default function App() {
 
       <section className="max-w-5xl mx-auto px-4 py-6">
         <img
-          src="/hero-top-dollar.jpg"
+          src="hero-top-dollar.jpg"
           alt="Top Dollar For Junk Cars tow truck ad"
           className="w-full rounded-3xl shadow-2xl border border-yellow-500/20"
         />
